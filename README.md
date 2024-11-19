@@ -1,2 +1,2 @@
 # python-repo
-Practice
+Practice, 학교과제
